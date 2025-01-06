@@ -1,0 +1,1 @@
+This repository contains a bug and its solution related to handling the accountsChanged event in MetaMask within a Dapp. The bug demonstrates an incomplete implementation of the event listener, failing to properly detect when the wallet becomes disconnected. The solution provides the correct implementation, ensuring the Dapp accurately reflects the user's connection status.
